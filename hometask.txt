@@ -1,0 +1,14 @@
+Ветка master и demo на выходе отличаются только текстами файлов README:
+
+README в master:
+
+Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+
+README в demo:
+
+Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+You must receive some image as in demo branch
