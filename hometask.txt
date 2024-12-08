@@ -12,3 +12,13 @@ README в demo:
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 
 You must receive some image as in demo branch
+
+
+Коммиты из удаленного репа (не считая этот, я не заметил, что нужно внести их):
+Merge remote-tracking branch 'refs/remotes/origin/boots' into boots_buttons
+Merge remote-tracking branch 'refs/remotes/origin/buttons' into boots_buttons
+Merge remote-tracking branch 'refs/remotes/origin/hat'
+Merge branch 'refs/heads/boots_buttons'
+
+и один отвечает за добавление хомтаска:
+add hometask.txt
